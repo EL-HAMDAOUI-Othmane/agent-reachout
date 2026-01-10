@@ -1,6 +1,6 @@
 # Agent Reachout
 
-Let your AI agent message you on Telegram when it needs decisions or finishes work.
+Let your Claude Code message you on Telegram when it needs decisions or finishes work, even when you’re away from your desk.
 
 <p align="center">
   <img src="assets/agent-reachout-flow.png" alt="Agent Reachout – Claude Code to Telegram flow" width="800">

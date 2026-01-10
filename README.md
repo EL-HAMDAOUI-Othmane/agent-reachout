@@ -100,3 +100,9 @@ Issues, discussions, and PRs are very welcome.
 ## Repo
 
 https://github.com/vibe-with-me-tools/agent-reachout
+
+---
+
+## License
+
+MIT

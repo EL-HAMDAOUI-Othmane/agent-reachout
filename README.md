@@ -73,6 +73,79 @@ It’s a small bridge between agents and humans.
 
 ---
 
+## Installation
+
+### Prerequisites
+
+- Claude Code CLI installed
+- A Telegram account
+
+---
+
+### 1. Create a Telegram Bot
+
+1. Open Telegram and search for [@BotFather](https://t.me/botfather)
+2. Send `/newbot` and follow the prompts to create your bot
+3. Copy the **bot token** (looks like `123456789:ABCdefGHIjklMNOpqrsTUVwxyz`)
+
+---
+
+### 2. Get Your Telegram Chat ID
+
+1. Search for [@userinfobot](https://t.me/userinfobot) on Telegram
+2. Start a chat with it
+3. Copy your **chat ID** (a number like `123456789`)
+
+> **Tip:** Start a conversation with your newly created bot first by searching for it and clicking "Start".
+
+---
+
+### 3. Configure Environment Variables
+
+Set the following environment variables. You can add them to your shell profile (`.zshrc`, `.bashrc`) or set them before running Claude Code:
+
+**Shell format:**
+
+```bash
+export TELEGRAM_BOT_TOKEN=your_bot_token_here
+export TELEGRAM_CHAT_ID=your_chat_id_here
+```
+
+**Or in your Claude Code settings** (`~/.claude/settings.json`):
+
+```json
+{
+  "env": {
+    "TELEGRAM_BOT_TOKEN": "your_bot_token_here",
+    "TELEGRAM_CHAT_ID": "your_chat_id_here"
+  }
+}
+```
+
+<details>
+<summary><strong>Environment Variables Reference</strong></summary>
+
+| Variable | Required | Description |
+|----------|----------|-------------|
+| `TELEGRAM_BOT_TOKEN` | Yes | Bot token from @BotFather |
+| `TELEGRAM_CHAT_ID` | Yes | Your personal chat ID from @userinfobot |
+| `AGENT_REACHOUT_NOTIFY_DEFAULT_TIMEOUT_MS` | No | Timeout for waiting for responses (default: 300000ms / 5 min) |
+
+</details>
+
+---
+
+### 4. Install the Plugin
+
+Run these commands in Claude Code:
+
+```
+/plugin marketplace add vibe-with-me-tools/agent-reachout
+/plugin install agent-reachout@agent-reachout
+```
+
+Restart Claude Code. Done!
+
 ## Roadmap
 
 - Slack integration

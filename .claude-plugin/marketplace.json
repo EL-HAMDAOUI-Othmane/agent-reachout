@@ -1,0 +1,12 @@
+{
+  "name": "agent-reachout",
+  "owner": {
+    "name": "vibe-with-me-tools"
+  },
+  "plugins": [
+    {
+      "name": "agent-reachout",
+      "source": "./"
+    }
+  ]
+}

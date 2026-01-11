@@ -78,6 +78,7 @@ It’s a small bridge between agents and humans.
 ### Prerequisites
 
 - Claude Code CLI installed
+- Bun installed (https://bun.com/docs/installation)
 - A Telegram account
 
 ---

